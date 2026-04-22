@@ -1,0 +1,13 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeFiles/**
+code
+*.o
+.vscode/
+.idea/
+build/
+*.swp
+*.swo
+submission_ids.log
